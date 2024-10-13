@@ -1,0 +1,37 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE settings (PyCharm, VSCode, etc.)
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# MacOS files
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
